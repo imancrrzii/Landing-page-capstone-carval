@@ -367,6 +367,7 @@ button {
   margin-bottom: var(--mb-1);
   font-family: var(--ff-lexend);
   color: var(--dark-color);
+  text-align: justify;
 
 }
 
@@ -1051,6 +1052,7 @@ button {
   .about__description {
     padding-right: 2rem;
     color: var(--dark-color);
+    text-align: justify;
   }
 
   .trick__container {
